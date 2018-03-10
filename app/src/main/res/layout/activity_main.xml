@@ -29,7 +29,7 @@
                     android:layout_height="100dp"
                     android:src="@drawable/postre1"
                     app:civ_border_width="2dp"
-                    app:civ_border_color="@color/colorGreen"
+                    app:civ_border_color="@color/colorGris"
                     android:paddingLeft="10dp"/>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -151,7 +151,7 @@
                     android:layout_height="100dp"
                     android:src="@drawable/postre2"
                     app:civ_border_width="2dp"
-                    app:civ_border_color="@color/colorGreen"
+                    app:civ_border_color="@color/colorGris"
                     android:paddingLeft="10dp"/>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -297,7 +297,7 @@
                     android:layout_height="100dp"
                     android:src="@drawable/postre3"
                     app:civ_border_width="2dp"
-                    app:civ_border_color="@color/colorGreen"
+                    app:civ_border_color="@color/colorGris"
                     android:paddingLeft="10dp"/>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -441,7 +441,7 @@
                     android:layout_height="100dp"
                     android:src="@drawable/postre4"
                     app:civ_border_width="2dp"
-                    app:civ_border_color="@color/colorGreen"
+                    app:civ_border_color="@color/colorGris"
                     android:paddingLeft="10dp"/>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -587,7 +587,7 @@
                     android:layout_height="100dp"
                     android:src="@drawable/postre5"
                     app:civ_border_width="2dp"
-                    app:civ_border_color="@color/colorGreen"
+                    app:civ_border_color="@color/colorGris"
                     android:paddingLeft="10dp"/>
                 <LinearLayout
                     android:layout_width="match_parent"
